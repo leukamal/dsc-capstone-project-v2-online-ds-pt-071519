@@ -1,35 +1,6 @@
-# Capstone Project Requirements
 
-## Introduction
 
-In this lesson, we'll discuss the requirements for our **Capstone Project**!
 
-## Objectives
-
-You will be able to:
-
-* Describe all required aspects of the final project
-* Describe what constitutes a successful project
-
-## Introduction
-
-Congratulations on making it to the final project! It's been a long journey, but we can finally see the light at the end of the tunnel!
-
-![Actual Footage of you seeing the light at the end of the tunnel](/end-of-tunnel.gif)
-
-Now that you've learned everything we have to teach you, it's time to show off and flex your data science muscles with your own **_Capstone Project_**! This project will allow you to showcase everything you've learned as a data scientist to by completing a professional-level data science project of your choosing. This project will be significantly larger than any project you've completed so far, and will be the crown jewel of your portfolio. A strong capstone project is the single most important thing you can do to get the attention of potential employers, so be prepared to put as much effort into this project as possible - the results will be **_worth it!_**
-
-![Your portfolio brings all the employers to your inbox](/milkshake.gif)
-
-## Topic Requirements
-
-Your project should develop a data product or analysis related to a single topic. You are completely free to choose any topic that interests you, but keep in mind that you will need to complete this project end-to-end, including sourcing your own data. When choosing a topic, think through these questions:  
-
-* What would I be motivated to work on?
-* What data could I use?
-* How could an individual or organization use my product or findings?
-* What will I be able to accomplish in the time I have available?
-* What challenges do I foresee with this project?
 
 ## Technical Requirements
 
